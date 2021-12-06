@@ -1,0 +1,26 @@
+{
+  "files": {
+    "2840.cpp": [
+      {
+        "id": "63c3774e-dc16-4123-af2a-1466edfe8a80",
+        "line": 1,
+        "version": 335,
+        "index": 0
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "97f71b37-f890-4bc4-99cf-ef4b86043a31",
+        "line": 1,
+        "version": 2022,
+        "index": 0
+      },
+      {
+        "id": "bd076e1e-6006-4c26-8509-1bf7ca76b280",
+        "line": 1,
+        "version": 2022,
+        "index": 0
+      }
+    ]
+  }
+}
